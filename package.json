@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-simple-portfolio",
+  "version": "1.0.0",
+  "description": "A NextJS simple porfolio web app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosdan8/nextjs-simple-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosdan8/nextjs-simple-portfolio/issues"
+  },
+  "homepage": "https://github.com/carlosdan8/nextjs-simple-portfolio#readme",
+  "dependencies": {
+    "bootswatch": "^5.0.0",
+    "classnames": "^2.2.6",
+    "next": "^10.2.0",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
